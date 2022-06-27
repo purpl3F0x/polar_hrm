@@ -1,0 +1,4 @@
+/.idea/
+/dist/
+/envname/
+poetry.lock
