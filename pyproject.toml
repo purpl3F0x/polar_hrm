@@ -4,8 +4,8 @@ version = "0.0.0"
 description = "Polar heart rate monitor SDK python implementation"
 authors = ["Stavros Avramidis <stavros9899@gmail.com>"]
 license = "MIT"
-#readme = "README.md"
-homepage = "github.com/purpl3F0x/polar-sdk"
+readme = "README.md"
+homepage = "https://github.com/purpl3F0x/polar_hrm"
 
 
 classifiers = [
